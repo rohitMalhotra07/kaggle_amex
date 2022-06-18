@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.csv
+lightning_logs/
+processed_data/
+checkpoints/
+amex-default-prediction/
+
+
+
